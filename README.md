@@ -8,7 +8,7 @@ A esta otra expresión le falta un corchete: 2*[(a+b)/2.5 + x - 7*y
 
 **¿Qué es una pila?** 
 
-R. Una pila (_stack_) es una colección ordenada de elementos a los cuales sólo se puede acceder por un único lugar o extremo de la pila. Los elementos se añaden o se quitan (borran) de la pila sólo por su parte superior (cima). 
+Una pila (_stack_) es una colección ordenada de elementos a los cuales sólo se puede acceder por un único lugar o extremo de la pila. Los elementos se añaden o se quitan (borran) de la pila sólo por su parte superior (cima). 
 Es una estructura de datos que almacena y recupera sus elementos atendiendo a un orden estricto. Las pilas se conocen también como estructuras LIFO (_Last-in, first-out_, último en entrar primero en salir).  Este es el caso de una pila de platos, una pila de libros, etc.
 
 **Uso de las pilas**:

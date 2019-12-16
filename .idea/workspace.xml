@@ -13,15 +13,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="459">
-                <caret line="27" selection-start-line="27" selection-end-line="27" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/VerificarSimbolos.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -48,6 +41,7 @@
         <option value="$PROJECT_DIR$/EjercicioRecursividad.py" />
         <option value="$PROJECT_DIR$/EjercicioPila.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/VerificarSimbolos.py" />
       </list>
     </option>
   </component>
@@ -187,14 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576459143515</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Feat: se crea la clase VerificarSimbolos, la cual ayuda a comprobar si una expresion tiene un equilibrio entre parentesis, llaves o corchetes">
+      <created>1576461216012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576461216012</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="682" y="18" width="656" height="711" extended-state="0" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23462783" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22003035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,7 +238,8 @@
     <MESSAGE value="Feat: se creo la clase Pila" />
     <MESSAGE value="Feat: Descripción del problema 9.3 del tema Pilas, del libro Estructuras de Datos en Java" />
     <MESSAGE value="Feat: Se agregó el diccionario de palabras desconocidas del problema 9.3 del tema Pilas, del libro Estructuras de Datos en Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Se agregó el diccionario de palabras desconocidas del problema 9.3 del tema Pilas, del libro Estructuras de Datos en Java" />
+    <MESSAGE value="Feat: se crea la clase VerificarSimbolos, la cual ayuda a comprobar si una expresion tiene un equilibrio entre parentesis, llaves o corchetes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: se crea la clase VerificarSimbolos, la cual ayuda a comprobar si una expresion tiene un equilibrio entre parentesis, llaves o corchetes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Pilas.py" />
@@ -269,6 +271,9 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VerificarSimbolos.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

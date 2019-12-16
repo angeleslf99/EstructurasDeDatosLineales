@@ -22,3 +22,7 @@ Los compiladores comprueban los programas buscando errores sintácticos. A menud
 Una herramienta útil en esta situación es un programa que comprueba si todo está equilibrado: es decir, si para todo { existe un } correspondiente, todo [ tiene un ], etc. La secuencia [ {  } ] es correcta, pero [ ( ] )  no lo es, por lo que contar simplemente el número de apariciones de cada símbolo no es suficiente. (suponga por ahora que estamos procesando una secuencia de tokens y no se preocupe de problemas tales como que la constante carácter ‘ { ‘ no necesita emparejarse con ‘ } ‘,)
 Una pila es útil para comprobar si hay símbolos desequilibrados, porque sabemos que cuando se encuentra un símbolo de determinación como ), debe emparejarse con el símbolo no cerrado (  más recientemente visto. 
 
+
+**Fuente:** 
+
+Joyanes-Aguilar, L., & Zahonero-Martinez, I. (2008). Estructuras de datos en Java. Madrid, España: McGraw-Hill.
